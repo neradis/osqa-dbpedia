@@ -5,4 +5,8 @@
 log/django.osqa.log
 tmp/*
 
+#Intellij
+.idea/
+*.iml
+
 osqa.wsgi
