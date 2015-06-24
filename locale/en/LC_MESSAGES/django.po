@@ -63,7 +63,7 @@ msgstr ""
 #: forum/skins/nuxeo/templates/osqaadmin/index.html:21
 #: forum/views/writers.py:91 forum_modules/akismet/startup.py:75
 msgid "question"
-msgstr ""
+msgstr "idea"
 
 #: forum/registry.py:24 forum/registry.py:59
 #: forum/skins/default/templates/index.html:15
@@ -3276,7 +3276,7 @@ msgstr ""
 #: forum/skins/nuxeo/templates/ask.html:4
 #: forum/skins/nuxeo/templates/ask.html:112
 msgid "Ask a question"
-msgstr "Ask a Question"
+msgstr "Add an idea"
 
 #: forum/skins/default/templates/ask.html:101
 #: forum/skins/nuxeo/templates/ask.html:165
@@ -3562,7 +3562,7 @@ msgstr ""
 #: forum/skins/default/templates/header.html:20
 #: forum/skins/nuxeo/templates/header.html:38
 msgid "ask a question"
-msgstr "Ask a Question"
+msgstr "Add an Idea"
 
 #: forum/skins/default/templates/header.html:31
 #: forum/skins/default/templates/opensearch.html:7
@@ -3580,7 +3580,7 @@ msgstr "Search"
 #: forum/views/readers.py:95 forum/views/readers.py:168
 #: forum/views/users.py:343
 msgid "questions"
-msgstr "Questions"
+msgstr "Ideas"
 
 #: forum/skins/default/templates/header.html:37
 #: forum/skins/default/templates/search.html:22
@@ -6246,9 +6246,8 @@ msgstr ""
 #: forum/skins/default/templates/question_list/title.html:20
 #: forum/skins/nuxeo/templates/question_list/title.html:20
 #: forum/views/readers.py:170
-#, fuzzy
 msgid "All Questions"
-msgstr "Tags"
+msgstr "All Ideas"
 
 #: forum/skins/default/templates/sidebar/markdown_help.html:3
 #: forum/skins/nuxeo/templates/sidebar/markdown_help.html:3
@@ -6702,7 +6701,7 @@ msgstr ""
 #: forum/skins/default/templates/users/subscriptions_settings.html:53
 #: forum/skins/nuxeo/templates/users/subscriptions_settings.html:52
 msgid "All questions"
-msgstr ""
+msgstr "All ideas"
 
 #: forum/skins/default/templates/users/subscriptions_settings.html:61
 #: forum/skins/nuxeo/templates/users/subscriptions_settings.html:60
@@ -7514,7 +7513,7 @@ msgstr ""
 
 #: forum/views/readers.py:39
 msgid "Most <strong>recently updated</strong> questions"
-msgstr "questions"
+msgstr "ideas"
 
 #: forum/views/readers.py:40
 msgid "most <strong>recently asked</strong> questions"
@@ -7639,7 +7638,7 @@ msgstr ""
 
 #: forum/views/readers.py:184
 msgid "Questions"
-msgstr ""
+msgstr "Ideas"
 
 #: forum/views/readers.py:251 forum/views/readers.py:252
 msgid "ranking"

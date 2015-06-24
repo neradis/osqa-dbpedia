@@ -77,6 +77,11 @@ TIME_ZONE = 'America/New_York'
 
 USE_I18N = True
 LANGUAGE_CODE = 'en'
+# use this if symlink forum/locale -> $PROJECT_ROOT/locale recognised:
+# LOCALE_PATHS = (
+#     os.path.join(SITE_SRC_ROOT, 'locale/'),
+# )
+
 
 OSQA_DEFAULT_SKIN = 'default'
 
