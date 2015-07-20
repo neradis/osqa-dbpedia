@@ -68,7 +68,7 @@ SESSION_ENGINE = 'django.contrib.sessions.backends.db'
 # This should be equal to your domain name, plus the web application context.
 # This shouldn't be followed by a trailing slash.
 # I.e., http://www.yoursite.com or http://www.hostedsite.com/yourhostapp
-APP_URL = 'http://dbpideas.aksw.org'
+APP_URL = 'http://'
 FORUM_SCRIPT_ALIAS = 'ideas/'
 
 #LOCALIZATIONS
@@ -86,4 +86,4 @@ LANGUAGE_CODE = 'en'
 
 OSQA_DEFAULT_SKIN = 'default'
 
-DISABLED_MODULES = ['books', 'recaptcha', 'project_badges', 'stats', 'default_badges']
+DISABLED_MODULES = ['books', 'recaptcha', 'project_badges', 'stats']
