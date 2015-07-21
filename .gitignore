@@ -8,3 +8,6 @@ tmp/*
 #Intellij
 .idea/
 *.iml
+
+#pyenv
+.python-version
